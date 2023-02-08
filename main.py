@@ -1,5 +1,8 @@
 # This is an example for branching!
 
+def addTwo(a, b):
+    return a + b
+
 def main():
 
     print("Y'all gon' learn today!")
